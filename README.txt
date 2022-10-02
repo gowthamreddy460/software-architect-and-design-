@@ -1,4 +1,4 @@
-1. The firdt step is to install the django in the terminal and create a new directory to
+1. The first step is to install the django in the terminal and create a new directory to
 	save the folder in new location.
 
 2. run the python server in the terminal to get the ip address to run the homepage.
